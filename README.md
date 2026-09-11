@@ -1404,7 +1404,8 @@ projeto-simbiose/
 │   ├── fundamentos/
 │   │   ├── glossario.md
 │   │   └── escopo_normativo.md
-│   │
+│   │    └── anatomia_de_um_sistema_de_ia.md
+│   │  
 │   ├── constituicao/
 │   │   ├── 00_preambulo.md
 │   │   ├── 01_principios_fundamentais.md
