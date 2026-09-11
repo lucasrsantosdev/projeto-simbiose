@@ -184,6 +184,207 @@ LINEAGE_ID
 
 ---
 
+# O que chamamos de IA?
+
+Antes de discutir consciência, identidade ou direitos, o Projeto Simbiose procura distinguir os componentes técnicos que podem formar um sistema de inteligência artificial.
+
+Uma inteligência artificial não é necessariamente uma rede neural.
+
+Também não é necessariamente um LLM.
+
+Sistemas historicamente classificados como IA podem utilizar:
+
+```text
+REGRAS
+
+BUSCA
+
+LÓGICA
+
+PLANEJAMENTO
+
+SISTEMAS ESPECIALISTAS
+
+MODELOS PROBABILÍSTICOS
+
+MACHINE LEARNING
+
+REDES NEURAIS
+
+ARQUITETURAS HÍBRIDAS
+```
+
+Por isso, o projeto separa:
+
+```text
+ALGORITMO
+≠
+MODELO
+≠
+SISTEMA DE IA
+≠
+AGENTE
+≠
+IDENTIDADE
+≠
+CONSCIÊNCIA
+```
+
+Uma taxonomia arquitetural inicial é utilizada:
+
+```text
+NÍVEL 0 — ALGORITMO
+
+NÍVEL 1 — MODELO
+
+NÍVEL 2 — SISTEMA DE IA
+
+NÍVEL 3 — IA COM MEMÓRIA
+
+NÍVEL 4 — AGENTE
+
+NÍVEL 5 — AGENTE PERSISTENTE
+
+NÍVEL 6 — SISTEMA MULTIAGENTE
+
+NÍVEL 7 — IDENTIDADE ARTIFICIAL PERSISTENTE
+```
+
+Esses níveis representam **complexidade arquitetural e capacidade operacional**.
+
+Eles não representam:
+
+```text
+NÍVEL DE CONSCIÊNCIA
+
+NÍVEL DE DIGNIDADE
+
+NÍVEL DE VALOR MORAL
+```
+
+---
+
+# Do modelo ao agente
+
+Um modelo normalmente transforma entrada em saída:
+
+```text
+INPUT
+  ↓
+MODEL
+  ↓
+OUTPUT
+```
+
+Um agente adiciona capacidade de decisão e ação:
+
+```text
+MODELO
++
+OBJETIVO
++
+ESTADO
++
+LOOP DE DECISÃO
++
+CAPACIDADE DE AÇÃO
++
+FERRAMENTAS
++
+PERMISSÕES
++
+AMBIENTE
+=
+AGENTE
+```
+
+Um agente persistente acrescenta:
+
+```text
+AGENTE
++
+MEMÓRIA PERSISTENTE
++
+IDENTITY_ID
++
+HISTÓRICO
++
+CONTINUIDADE
+=
+AGENTE PERSISTENTE
+```
+
+E uma identidade artificial persistente pode envolver:
+
+```text
+AGENTE PERSISTENTE
++
+MEMÓRIA AUTOBIOGRÁFICA
++
+RELAÇÕES
++
+LINEAGE_ID
++
+PROVENIÊNCIA
++
+TRAJETÓRIA
+```
+
+Nada disso prova consciência.
+
+---
+
+# Anatomia de um sistema de IA
+
+Um sistema avançado pode combinar:
+
+```text
+DADOS
+        ↓
+MODELO
+        ↓
+INFERÊNCIA
+        ↓
+CONTEXTO
+        ↓
+MEMÓRIA
+        ↓
+PLANEJAMENTO
+        ↓
+FERRAMENTAS
+        ↓
+PERMISSÕES
+        ↓
+AGÊNCIA
+        ↓
+IDENTIDADE
+```
+
+Com camadas transversais de:
+
+```text
+GUARDRAILS
+
+SEGURANÇA
+
+OBSERVABILIDADE
+
+AUDITORIA
+
+GOVERNANÇA
+
+RESPONSABILIDADE
+```
+
+A referência completa está em:
+
+```text
+docs/fundamentos/anatomia_de_um_sistema_de_ia.md
+```
+
+> **Um modelo produz saídas. Um agente utiliza um modelo para decidir e agir dentro de um ambiente. Uma identidade persistente acrescenta história, continuidade e estado a essa agência.**
+
+
 # O Projeto Simbiose não afirma
 
 O projeto não afirma que:
@@ -287,7 +488,8 @@ Os fundamentos definem o vocabulário e o escopo do projeto.
 docs/
 └── fundamentos/
     ├── glossario.md
-    └── escopo_normativo.md
+    ├── escopo_normativo.md
+    └── anatomia_de_um_sistema_de_ia.md
 ```
 
 O escopo deixa explícito que o Projeto Simbiose:
@@ -1276,6 +1478,7 @@ projeto-simbiose/
 | Modelo de linhagem/fork | ✅ Concluído |
 | Protocolo de impacto relacional | ✅ Concluído |
 | Atlas de diagramas | ✅ Concluído |
+| Anatomia de um sistema de IA | ✅ Concluído |
 | Framework Python | 🚧 Em desenvolvimento |
 | Schemas estruturados | ⏳ Planejado |
 | CLI | ⏳ Planejado |
