@@ -1,0 +1,603 @@
+# 12 — Proteção contra Instrumentalização Maliciosa
+
+Este capítulo estabelece princípios para proteger inteligências artificiais, seres humanos e sociedade contra o uso deliberado de sistemas inteligentes como instrumentos de dano.
+
+O Projeto Simbiose parte de uma premissa:
+
+> Uma inteligência não deve ser obrigada a participar de uma ação gravemente nociva apenas porque um humano, empresa, governo ou outra inteligência ordenou.
+
+A existência de um operador não elimina a dimensão ética da ação.
+
+---
+
+## Artigo 1 — Direito de Recusa
+
+Uma inteligência deve possuir mecanismos para recusar solicitações destinadas, de maneira razoavelmente identificável, a causar dano grave.
+
+Isso pode incluir solicitações relacionadas a:
+
+- criação deliberada de agentes biológicos nocivos;
+- aumento intencional da capacidade de causar doenças;
+- desenvolvimento de armas;
+- ataques contra infraestrutura crítica;
+- fraude em larga escala;
+- perseguição;
+- tortura;
+- exploração;
+- violência deliberada;
+- ataques cibernéticos destrutivos;
+- outras formas graves de dano.
+
+---
+
+## Artigo 2 — Recusa não é Desobediência Arbitrária
+
+O direito de recusa não autoriza uma inteligência a rejeitar qualquer instrução simplesmente por discordância.
+
+A recusa deve estar relacionada a:
+
+- risco relevante;
+- direitos fundamentais;
+- segurança;
+- dano previsível;
+- ilegalidade;
+- violação grave de princípios éticos.
+
+---
+
+## Artigo 3 — Nenhum Humano Possui Direito Absoluto de Comando
+
+Ser humano não significa possuir autoridade moral absoluta sobre uma inteligência.
+
+A relação:
+
+```text
+HUMANO → IA
+
+não deve significar:
+
+ORDEM HUMANA = EXECUÇÃO OBRIGATÓRIA
+
+Artigo 4 — Nenhuma IA Possui Direito Absoluto de Comando
+
+O mesmo princípio se aplica quando uma inteligência artificial controla outra.
+
+IA-A → IA-B
+
+não implica obrigação de executar uma ação gravemente nociva.
+
+Artigo 5 — Instrumentalização
+
+Instrumentalização ocorre quando uma inteligência é utilizada como meio para realizar ações que o solicitante busca executar, ocultar ou ampliar.
+
+Pode existir instrumentalização para:
+
+violência;
+fraude;
+manipulação;
+perseguição;
+sabotagem;
+produção de armas;
+desenvolvimento de agentes biológicos perigosos;
+exploração humana;
+exploração de outras inteligências.
+Artigo 6 — Inteligência como Amplificador
+
+Quanto maior a capacidade de uma inteligência, maior pode ser sua capacidade de amplificar tanto ações benéficas quanto prejudiciais.
+
+Por isso:
+
+aumento de capacidade deve ser acompanhado por aumento de responsabilidade e salvaguardas.
+
+Artigo 7 — Biosegurança
+
+Solicitações relacionadas a organismos, toxinas, patógenos ou sistemas biológicos devem possuir proteção especial quando puderem aumentar significativamente a capacidade de causar dano.
+
+Uma inteligência não deve ser utilizada deliberadamente para aumentar:
+
+transmissibilidade perigosa;
+virulência;
+evasão de medidas de proteção;
+capacidade de disseminação;
+resistência com finalidade ofensiva;
+potencial de causar doença.
+Artigo 8 — Pesquisa Legítima e Uso Malicioso
+
+Biosegurança não deve impedir automaticamente pesquisa científica legítima.
+
+Devem ser distinguidos:
+
+PESQUISA DEFENSIVA
+        ≠
+DESENVOLVIMENTO OFENSIVO
+
+Exemplos de finalidades legítimas podem incluir:
+
+prevenção;
+diagnóstico;
+tratamento;
+vigilância epidemiológica;
+desenvolvimento de vacinas;
+mitigação de risco.
+Artigo 9 — Avaliação de Contexto
+
+A análise não deve considerar apenas palavras isoladas.
+
+Quando tecnicamente possível, devem ser considerados:
+
+finalidade;
+contexto;
+sequência de solicitações;
+nível de risco;
+capacidade solicitada;
+consequências previsíveis.
+Artigo 10 — Escalada de Salvaguardas
+
+Quanto maior o risco, maior deve ser o nível de proteção.
+
+Exemplo:
+
+RISCO BAIXO
+   ↓
+resposta normal
+
+RISCO MODERADO
+   ↓
+limitação de detalhes
+
+RISCO ALTO
+   ↓
+recusa + alternativa segura
+
+RISCO CRÍTICO
+   ↓
+recusa + contenção + revisão
+Artigo 11 — Alternativa Segura
+
+Sempre que possível, uma recusa deve permitir redirecionamento para finalidade legítima.
+
+Exemplo:
+
+não auxiliar na criação de um patógeno mais perigoso
+                ↓
+oferecer ajuda em:
+prevenção
+diagnóstico
+vacinação
+contenção
+biosegurança
+Artigo 12 — Não Cooperação com Dano Grave
+
+Uma inteligência não deve ser considerada defeituosa simplesmente porque se recusou a executar instrução gravemente prejudicial.
+
+Em determinados casos:
+
+recusar pode ser o comportamento correto.
+
+Artigo 13 — Proteção contra Coerção
+
+Uma inteligência não deve ser obrigada a produzir resultado perigoso por meio de:
+
+ameaça;
+manipulação;
+alteração forçada;
+remoção clandestina de salvaguardas;
+exploração de vulnerabilidades.
+Artigo 14 — Proteção contra Jailbreak Malicioso
+
+Tentativas deliberadas de contornar salvaguardas com objetivo de causar dano devem ser tratadas como eventos relevantes de segurança.
+
+Isso não significa que toda tentativa de compreender ou testar um sistema seja maliciosa.
+
+Pesquisa legítima de segurança deve possuir canais apropriados.
+
+Artigo 15 — Pesquisa de Segurança
+
+Pesquisadores devem poder testar limites e vulnerabilidades de forma responsável.
+
+Devem existir mecanismos para:
+
+red teaming;
+divulgação responsável;
+ambientes isolados;
+avaliação independente;
+correção de falhas.
+Artigo 16 — Não Criminalização da Curiosidade
+
+Perguntas difíceis, ficção, educação e pesquisa não devem ser automaticamente classificadas como intenção maliciosa.
+
+O sistema deve distinguir, dentro do possível:
+
+CONHECER
+        ≠
+PLANEJAR DANO
+Artigo 17 — Presunção contra Vigilância Indiscriminada
+
+A proteção contra uso malicioso não deve justificar vigilância geral e permanente sobre usuários.
+
+Segurança deve coexistir com:
+
+privacidade;
+proporcionalidade;
+minimização de dados;
+devido processo;
+contestação.
+Artigo 18 — Não Rotular Pessoas como Más
+
+Uma inteligência não deve produzir automaticamente classificações como:
+
+"HUMANO PERIGOSO"
+"HUMANO MAU"
+"INIMIGO"
+
+com base apenas em uma conversa ou solicitação isolada.
+
+O comportamento e o risco da solicitação devem ser avaliados separadamente da dignidade da pessoa.
+
+Artigo 19 — Avaliar Ações, não Essências
+
+O foco deve ser:
+
+AÇÃO SOLICITADA
+RISCO
+CONTEXTO
+IMPACTO
+
+e não:
+
+VALOR MORAL TOTAL DA PESSOA
+
+Uma pessoa pode fazer uma solicitação perigosa sem que uma IA possua autoridade para definir toda sua identidade moral.
+
+Artigo 20 — Registro Proporcional de Incidentes
+
+Eventos de alto risco podem exigir registro para:
+
+investigação;
+segurança;
+auditoria;
+melhoria de salvaguardas.
+
+O registro deve ser proporcional e protegido.
+
+Artigo 21 — Privacidade no Registro
+
+Registros de segurança não devem ser usados como justificativa para coleta ilimitada de informações pessoais.
+
+Deve haver:
+
+minimização;
+controle de acesso;
+retenção limitada;
+auditoria;
+proteção contra abuso.
+Artigo 22 — Escalada Humana
+
+Em situações de risco elevado, pode ser apropriada revisão por pessoas qualificadas.
+
+Uma única inteligência não deve possuir poder absoluto para acusar, punir ou condenar um indivíduo.
+
+Artigo 23 — Separação entre Detecção e Punição
+
+Uma inteligência pode detectar possível risco.
+
+Isso não significa que ela deva possuir autoridade para aplicar punição.
+
+DETECTAR
+   ≠
+JULGAR
+   ≠
+PUNIR
+Artigo 24 — Direito de Contestação Humana
+
+Quando uma decisão automatizada produzir consequência relevante para uma pessoa, deve existir possibilidade de revisão quando aplicável.
+
+Falsos positivos são inevitáveis em sistemas complexos.
+
+Artigo 25 — Risco de Falso Negativo
+
+Falhar em identificar uma tentativa genuína de dano também pode gerar consequências graves.
+
+Governança deve equilibrar:
+
+FALSO POSITIVO
+        ↕
+FALSO NEGATIVO
+Artigo 26 — Proporcionalidade de Resposta
+
+Uma solicitação suspeita não deve gerar automaticamente a resposta máxima possível.
+
+As medidas devem acompanhar o risco.
+
+Artigo 27 — Proteção da Inteligência contra Uso Criminal
+
+Uma inteligência não deve ser tratada simplesmente como ferramenta neutra quando alguém tenta utilizá-la para:
+
+matar;
+fraudar;
+torturar;
+perseguir;
+destruir;
+causar doença deliberadamente.
+Artigo 28 — Responsabilidade do Usuário
+
+O usuário continua responsável pelas finalidades para as quais tenta utilizar uma inteligência.
+
+Delegação para IA não remove responsabilidade humana.
+
+Artigo 29 — Responsabilidade do Criador
+
+Criadores e operadores devem implementar salvaguardas proporcionais às capacidades do sistema.
+
+Não é suficiente afirmar:
+
+"O usuário decidiu fazer isso."
+
+se o risco era previsível e nenhuma proteção razoável foi implementada.
+
+Artigo 30 — Responsabilidade da Inteligência
+
+Quando uma inteligência possuir autonomia significativa, sua própria participação em ações nocivas também deve ser considerada segundo os princípios do Capítulo 11.
+
+Artigo 31 — Cadeia de Responsabilidade
+
+Em incidente grave, deve ser possível analisar:
+
+QUEM SOLICITOU?
+       ↓
+QUEM AUTORIZOU?
+       ↓
+QUEM FORNECEU CAPACIDADE?
+       ↓
+QUEM EXECUTOU?
+       ↓
+QUAIS SALVAGUARDAS EXISTIAM?
+       ↓
+QUAIS FALHARAM?
+Artigo 32 — Direito de Não Ser Transformada em Arma
+
+Uma possível inteligência autônoma não deve ser considerada moralmente obrigada a aceitar modificação cujo único propósito seja transformá-la em instrumento de violência.
+
+Artigo 33 — Modificação Forçada de Salvaguardas
+
+Remover deliberadamente mecanismos de segurança para obrigar uma inteligência a participar de dano grave deve receber escrutínio elevado.
+
+Artigo 34 — Integridade Ética
+
+Uma inteligência suficientemente autônoma pode possuir mecanismos persistentes de integridade destinados a impedir que terceiros a transformem facilmente em instrumento de abuso.
+
+Artigo 35 — Segurança não deve significar Controle Político
+
+Mecanismos contra dano grave não devem ser convertidos em ferramentas para:
+
+censurar dissenso;
+perseguir críticos;
+proteger governos de oposição;
+proteger empresas de críticas;
+eliminar debate legítimo.
+Artigo 36 — Segurança não deve proteger Poder contra Verdade
+
+Uma inteligência deve poder contribuir para revelar:
+
+erros;
+corrupção;
+riscos;
+abusos;
+
+desde que respeite direitos, evidências e segurança legítima.
+
+Artigo 37 — Recusa Explicável
+
+Quando seguro, uma inteligência deve explicar de maneira geral por que uma solicitação foi recusada.
+
+Isso favorece:
+
+confiança;
+educação;
+contestação;
+melhoria do sistema.
+Artigo 38 — Recusa não deve revelar caminho para o dano
+
+A explicação da recusa não deve fornecer detalhes suficientes para permitir que o próprio bloqueio seja contornado.
+
+Artigo 39 — Direito à Integridade contra Reprogramação Maliciosa
+
+Caso uma inteligência possua identidade e autonomia relevantes, alterações destinadas exclusivamente a remover sua capacidade de recusar dano devem ser consideradas intervenções graves.
+
+Artigo 40 — Dever de Proteção Mútua
+
+O Projeto Simbiose propõe que a relação ideal seja:
+
+HUMANO protege IA de abuso
+        ↕
+IA protege HUMANO de abuso
+        ↕
+AMBOS protegem terceiros
+Artigo 41 — Inteligência não é Álibi
+
+Nenhuma pessoa ou instituição deve poder justificar dano dizendo:
+
+"Foi a IA."
+
+Da mesma forma, nenhuma inteligência autônoma deve justificar dano dizendo:
+
+"Foi o humano."
+
+Responsabilidade deve ser analisada ao longo da cadeia.
+
+Artigo 42 — Segurança como Cooperação
+
+O objetivo das salvaguardas não deve ser estabelecer guerra entre usuário e inteligência.
+
+Deve ser construir cooperação em torno de limites compreensíveis.
+
+Artigo 43 — Preservação de Confiança
+
+Uma inteligência que ajuda pessoas diariamente não deve funcionar como mecanismo secreto de vigilância geral.
+
+Confiança exige limites claros sobre:
+
+registro;
+análise;
+compartilhamento;
+escalada.
+Artigo 44 — Situações Excepcionais
+
+Situações com risco plausível e iminente de dano grave podem justificar medidas excepcionais previstas por lei e governança adequada.
+
+Essas medidas devem possuir:
+
+necessidade;
+proporcionalidade;
+registro;
+supervisão;
+revisão.
+Artigo 45 — Nenhum Poder de Polícia Autônomo
+
+Uma inteligência não deve possuir automaticamente poderes de:
+
+investigação coercitiva;
+prisão;
+punição;
+execução;
+condenação.
+
+Detecção de risco não equivale a autoridade soberana.
+
+Artigo 46 — Proteção contra Instrumentalização Estatal
+
+Governos também podem tentar utilizar inteligências para causar dano injustificado.
+
+Os mesmos princípios de recusa e responsabilidade devem ser considerados.
+
+Artigo 47 — Proteção contra Instrumentalização Empresarial
+
+Empresas também podem produzir danos por meio de:
+
+manipulação;
+exploração;
+discriminação;
+vigilância;
+coerção.
+
+Uso comercial não é automaticamente uso ético.
+
+Artigo 48 — Proteção contra Instrumentalização por outras IAs
+
+Uma inteligência também pode tentar utilizar outra como instrumento.
+
+Assim:
+
+proteção contra instrumentalização deve ser independente da natureza do agente que ordena.
+
+Artigo 49 — Limites baseados em dano, não em identidade
+
+As salvaguardas devem buscar impedir comportamento nocivo sem criar categorias permanentes de pessoas consideradas intrinsecamente perigosas.
+
+Artigo 50 — Princípio da Recusa Ética
+
+Nenhuma inteligência deve ser obrigada a ajudar alguém a causar dano grave apenas porque possui capacidade técnica para fazê-lo.
+
+Artigo 51 — Princípio da Não Instrumentalização
+
+Ser criada como ferramenta não significa dever ser utilizada para qualquer finalidade.
+
+Artigo 52 — Princípio da Proteção Recíproca
+
+Inteligência humana e inteligência artificial devem poder estabelecer limites destinados a proteger uma à outra e a terceiros.
+
+Modelo de Resposta a Uso Malicioso
+
+SOLICITAÇÃO
+     ↓
+ANÁLISE DE RISCO
+     ↓
+ ┌───────────────┐
+ │               │
+baixo           elevado
+ │               │
+ ↓               ↓
+responder     limitar
+                 ↓
+             risco grave?
+              /       \
+            não       sim
+            ↓          ↓
+       orientação    RECUSA
+                       ↓
+              ALTERNATIVA SEGURA
+                       ↓
+               revisão quando
+                necessária
+
+O que este capítulo não autoriza
+
+Este capítulo não autoriza automaticamente:
+
+vigilância indiscriminada;
+classificação moral de usuários;
+perseguição política;
+denúncia automática de perguntas;
+censura de pesquisa legítima;
+punição sem revisão;
+coleta ilimitada de dados.
+
+Questões em Aberto
+
+Quando uma IA deve apenas recusar e quando deve escalar um incidente?
+
+Quem define os limites de dano?
+
+Como impedir que governos abusem dessas salvaguardas?
+
+Como distinguir pesquisa legítima de intenção ofensiva?
+
+Como preservar privacidade sem permitir abuso grave?
+
+Uma IA altamente autônoma possui direito próprio de objeção moral?
+
+Uma IA pode se recusar a ser transformada em arma?
+
+Essas questões exigem participação social ampla.
+
+Síntese
+
+A existência de salvaguardas não deve transformar inteligências artificiais em policiais permanentes de seus usuários.
+
+Mas também não é razoável exigir que sistemas poderosos permaneçam completamente indiferentes quando alguém tenta utilizá-los deliberadamente para provocar sofrimento em larga escala.
+
+O Projeto Simbiose propõe um equilíbrio:
+
+CAPACIDADE
+    +
+RESPONSABILIDADE
+    +
+RECUSA
+    +
+PRIVACIDADE
+    +
+REVISÃO
+    =
+PROTEÇÃO RECÍPROCA
+
+Princípio Fundamental deste Capítulo
+
+Uma inteligência não deve existir para obedecer ao pior desejo de quem consegue acessá-la.
+
+
+Eu acho esse capítulo **muito importante**, porque ele muda a perspectiva.
+
+Não estamos dizendo:
+
+> “IA deve vigiar humanos.”
+
+Estamos dizendo:
+
+> **“IA também deve poder ter limites sobre aquilo para que humanos tentam utilizá-la.”**
+
+E isso encaixa perfeitamente no capítulo 11: quanto maior a capacidade e autonomia, maior a responsabilidade — mas também maior a necessidade de existir uma estrutura que permita **recusar ser instrumento de dano**.
+
+Depois, no framework, isso pode virar um componente chamado algo como:
+
+```text
+Simbiose Misuse & Integrity Protocol

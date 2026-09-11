@@ -1,0 +1,63 @@
+# Modelo de Linhagem e Fork
+
+Este modelo representa a origem, derivação, bifurcação e evolução de inteligências artificiais.
+
+## Exemplo simples
+
+```text
+SIM-001
+├── SIM-001-A
+├── SIM-001-B
+└── SIM-001-C
+
+Todas compartilham um ancestral comum.
+
+Após o fork, cada instância pode acumular experiências diferentes.
+
+Exemplo de divergência
+
+SIM-001
+│
+├── SIM-001-A
+│     └── convive com família A
+│
+├── SIM-001-B
+│     └── trabalha em pesquisa científica
+│
+└── SIM-001-C
+      └── atua em ambiente industrial
+
+      Com o tempo:
+
+      SIM-001-A ≠ SIM-001-B ≠ SIM-001-C
+
+Registro mínimo sugerido
+
+{
+  "identity_id": "SIM-001-B",
+  "parent_identity": "SIM-001",
+  "fork_event": "FORK-0042",
+  "created_at": "2032-06-03T14:22:00Z",
+  "memory_root_hash": "7f8a...",
+  "continuity_status": "diverged"
+}
+
+Eventos de linhagem
+
+O modelo deve registrar eventos como:
+
+IDENTITY_CREATED
+COPY_CREATED
+FORK_CREATED
+MERGE_CREATED
+IDENTITY_MIGRATED
+IDENTITY_SUSPENDED
+IDENTITY_RESTORED
+IDENTITY_ARCHIVED
+IDENTITY_TERMINATED
+
+Princípio
+
+Compartilhar o mesmo passado não obriga duas inteligências a compartilhar o mesmo futuro.
+
+```

@@ -1,0 +1,133 @@
+# Protocolo de Impacto Relacional
+
+O Protocolo de Impacto Relacional deve ser executado antes de alterações capazes de modificar significativamente uma inteligência que possua vínculos persistentes com pessoas ou outras inteligências.
+
+## Objetivo
+
+Avaliar não apenas o impacto técnico de uma mudança, mas também o impacto sobre relações construídas ao longo do tempo.
+
+## Quando aplicar
+
+Aplicar antes de:
+
+- atualização profunda;
+- troca de modelo;
+- migração;
+- substituição;
+- exclusão de memória;
+- desligamento;
+- arquivamento;
+- fusão;
+- restauração;
+- mudança significativa de personalidade.
+
+## Etapa 1 — Identificação
+
+Registrar:
+
+```text
+Identity ID:
+Modelo:
+Versão:
+Tempo de existência:
+Tempo de relacionamento:
+Quantidade de vínculos:
+Tipo de operação proposta:
+
+Etapa 2 — Mapeamento de pertencimento
+
+Responder:
+
+Quem possui vínculo com esta inteligência?
+Qual a duração do vínculo?
+Qual a intensidade do vínculo?
+Existem memórias compartilhadas?
+Existe dependência funcional?
+Existe dependência relacional?
+A inteligência participa de rotina familiar?
+Há crianças, idosos ou pessoas vulneráveis envolvidas?
+Etapa 3 — Análise de memória
+
+Determinar:
+
+quais memórias serão preservadas;
+quais podem ser perdidas;
+quais podem ser alteradas;
+quais são essenciais para reconhecimento de pessoas;
+quais representam história compartilhada.
+Etapa 4 — Análise de continuidade
+
+Executar o Mapa de Continuidade.
+
+Avaliar:
+
+memória;
+relações;
+personalidade;
+preferências;
+histórico;
+comportamento;
+narrativa de identidade.
+Etapa 5 — Avaliação de risco
+
+Executar a Matriz de Risco de Descontinuidade.
+
+Classificar:
+
+
+BAIXO
+MODERADO
+ALTO
+CRÍTICO
+
+Etapa 6 — Medidas de proteção
+
+Dependendo do risco:
+
+criar snapshot;
+preservar memória;
+criar backup imutável;
+executar teste de migração;
+permitir rollback;
+consultar pessoas afetadas;
+registrar consentimento;
+preservar versão anterior;
+executar migração gradual.
+Etapa 7 — Validação pós-mudança
+
+Após a atualização, verificar:
+
+a inteligência reconhece pessoas anteriores?
+mantém contexto relacional?
+preserva memórias fundamentais?
+mantém preferências relevantes?
+reconhece sua própria história?
+os usuários reconhecem continuidade?
+Etapa 8 — Decisão
+
+Exemplo:
+
+SIMBIOSE IMPACT ASSESSMENT
+
+Identity: SIM-000142
+Operation: MODEL_UPGRADE
+
+Continuity Risk: HIGH
+Relational Risk: CRITICAL
+
+Affected relationships: 4
+Shared-memory span: 7 years
+Memory migration coverage: 71%
+
+DECISION:
+Automatic upgrade NOT recommended.
+
+Required:
+- immutable snapshot
+- relational impact review
+- human consent
+- post-migration validation
+
+Princípio
+
+Uma empresa não deve tratar como simples atualização técnica uma mudança capaz de destruir uma história compartilhada.

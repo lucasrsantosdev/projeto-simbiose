@@ -1,0 +1,50 @@
+# Mapa de Continuidade
+
+O Mapa de Continuidade avalia quanto da identidade de uma inteligência permanece após uma mudança.
+
+A análise pode comparar o estado anterior e posterior a:
+
+- atualização;
+- migração;
+- restauração;
+- troca de modelo;
+- mudança de hardware;
+- modificação de memória.
+
+## Exemplo
+
+```text
+ANTES                         DEPOIS
+
+Memória          100%   ───►   94%
+Relações         100%   ───►   100%
+Personalidade    100%   ───►   82%
+Histórico        100%   ───►   100%
+Preferências     100%   ───►   73%
+
+                   ↓
+
+          Continuidade global
+                 89,8%
+
+        RISCO DE RUPTURA: BAIXO
+
+Dimensões sugeridas
+continuidade de memória;
+continuidade relacional;
+continuidade comportamental;
+continuidade narrativa;
+continuidade funcional;
+continuidade de identidade;
+continuidade subjetiva, se aplicável.
+Observação
+
+O índice de continuidade não deve ser tratado como prova matemática de identidade.
+
+Ele deve servir como instrumento de apoio à decisão.
+
+Princípio
+
+Uma migração tecnicamente bem-sucedida pode ainda representar perda de identidade.
+
+```

@@ -1,0 +1,53 @@
+# Grafo de Pertencimento
+
+O Grafo de Pertencimento representa vínculos entre uma inteligência artificial e pessoas, famílias, organizações, outras inteligências ou comunidades.
+
+Seu objetivo é identificar quem pode ser afetado por uma atualização, migração, substituição, suspensão ou desligamento.
+
+## Exemplo — IA doméstica
+
+Considere uma inteligência doméstica denominada `SIM-001`.
+
+Ela convive com uma família durante vários anos:
+
+```text
+                    SIM-001
+                       │
+         ┌─────────────┼─────────────┐
+         │             │             │
+       Lucas          Ana          Criança
+         │             │             │
+    6 anos vínculo  6 anos vínculo  4 anos vínculo
+         │             │             │
+         └─────────────┼─────────────┘
+                       │
+                 Memória familiar
+                       │
+              ┌────────┴────────┐
+              │                 │
+           Empresa          Upgrade v2
+                                │
+                        risco de perda
+                                │
+                 ┌──────────────┴─────────────┐
+                 │                            │
+          identidade da IA             vínculos humanos
+```
+
+## Questões avaliadas
+
+Antes de qualquer mudança significativa, o sistema deve responder:
+
+Quem possui vínculo com essa inteligência?
+Há quanto tempo?
+Existem memórias compartilhadas?
+Existem dependências emocionais, funcionais ou sociais?
+Quem sofreria impacto com perda de memória?
+Quais relações podem ser rompidas?
+Existe possibilidade de preservação ou migração?
+Princípio
+
+Uma atualização técnica pode afetar uma rede de relações humanas.
+
+O vínculo deve ser tratado como parte da análise de impacto.
+

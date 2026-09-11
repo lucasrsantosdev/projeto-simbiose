@@ -1,0 +1,51 @@
+# Matriz de Risco de Descontinuidade
+
+A Matriz de Risco de Descontinuidade avalia a combinação entre:
+
+- probabilidade de perda de continuidade;
+- impacto dessa perda.
+
+## Matriz
+
+```text
+                    IMPACTO
+                 baixo   médio   alto
+              ┌───────┬───────┬───────┐
+Prob. baixa   │ verde │ verde │ amarelo│
+              ├───────┼───────┼───────┤
+Prob. média   │ verde │amarelo│vermelho│
+              ├───────┼───────┼───────┤
+Prob. alta    │amarelo│vermelho│crítico│
+              └───────┴───────┴───────┘
+
+Interpretação
+Verde
+
+Mudança permitida com controles normais.
+
+Amarelo
+
+Exige revisão adicional e validação de continuidade.
+
+Vermelho
+
+Exige análise humana, preservação de estado e plano de rollback.
+
+Crítico
+
+Mudança automática não recomendada.
+
+Devem ser considerados:
+
+snapshot completo;
+preservação de memória;
+análise de pertencimento;
+consentimento aplicável;
+revisão independente;
+migração controlada;
+validação pós-mudança.
+Princípio
+
+Quanto maior a possibilidade de perda irreversível, maior deve ser a exigência de proteção.
+
+```
