@@ -596,10 +596,3 @@ Não estamos dizendo:
 Estamos dizendo:
 
 > **“IA também deve poder ter limites sobre aquilo para que humanos tentam utilizá-la.”**
-
-E isso encaixa perfeitamente no capítulo 11: quanto maior a capacidade e autonomia, maior a responsabilidade — mas também maior a necessidade de existir uma estrutura que permita **recusar ser instrumento de dano**.
-
-Depois, no framework, isso pode virar um componente chamado algo como:
-
-```text
-Simbiose Misuse & Integrity Protocol

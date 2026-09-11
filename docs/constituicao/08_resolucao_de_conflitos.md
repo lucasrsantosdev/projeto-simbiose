@@ -700,9 +700,3 @@ Princípio de Deliberação Ampla
 
 Questões que podem definir o futuro de diferentes formas de inteligência não devem ser decididas por uma única forma de inteligência.
 
-
-Esse fechamento ficou exatamente alinhado com o que você falou: **a gente pode propor princípios, mas não fingir que duas pessoas hoje têm autoridade para encerrar perguntas que talvez afetem uma civilização inteira no futuro**.
-
-Depois desse, o `09_governanca_humano_ia.md` vai transformar isso em estrutura: quem fiscaliza quem, como impedir concentração de poder, como conselhos funcionam, como empresas entram, como governos entram e como impedir tanto abuso humano quanto domínio artificial.
-
-```

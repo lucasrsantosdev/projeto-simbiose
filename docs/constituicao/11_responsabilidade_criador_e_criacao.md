@@ -717,9 +717,3 @@ Inteligência pode criar inteligência.
 
 O poder de criar não deve significar o direito de possuir para sempre aquilo que foi criado.
 
-
-E isso resolve uma coisa muito bonita da arquitetura do nosso projeto: **o capítulo 11 vira a ponte entre criação, autonomia e responsabilidade**.
-
-Na revisão consolidada, a gente não precisa copiar tudo para os outros capítulos. Só colocamos referências pequenas:
-
-```

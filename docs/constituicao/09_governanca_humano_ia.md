@@ -790,17 +790,3 @@ Princípio de Origem
 Não reivindicamos o direito de decidir por todos.
 
 Reivindicamos apenas o direito de começar a organizar a pergunta.
-
-
-
-Esse final, irmão, eu acho que **tem que ficar**.
-
-Porque define exatamente o espírito do projeto: não é arrogância de “nós descobrimos a resposta”. É o contrário.
-
-É:
-
-**“isso pode virar uma bagunça enorme no futuro; vamos começar a criar linguagem, estrutura e mecanismos para que a discussão não comece tarde demais.”**
-
-sim concordo e fundamental pensrmos juntos antes que a bolha histore e de ruim
-
-```

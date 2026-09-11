@@ -849,7 +849,3 @@ E eu gostei muito de uma coisa que acabou emergindo naturalmente do que a gente 
 A pergunta central virou quase isso:
 
 > **Não basta perguntar se podemos criar uma inteligência. Precisamos perguntar que relação queremos construir com aquilo que criamos — e que relação queremos permitir que ela construa conosco.**
-
-Agora eu não iria direto para código ainda. O próximo passo que eu faria é revisar os capítulos `00` a `10`, fechar o **Manifesto Simbiose** em uma página forte e depois partir para os protocolos, diagramas e código que transformam esses princípios em engenharia.
-
-```
